@@ -9,4 +9,12 @@
     <color name="teal_700">#FF018786</color>
 
 
+    <color name="pink">#E551FF</color>
+    <color name="blue">#0F63E1</color>
+    <color name="backgroungColor">#FFFFFF</color>
+    <color name="textHeading">#0420AA</color>
+
+
+
+
 </resources>
